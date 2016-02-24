@@ -2,7 +2,7 @@
 
 # Logging config
 logging.level:
-  com.netflix.discovery: 'INFO'
+  com.netflix.discovery: 'DEBUG'
 
 # Eureka - Service Discovery
 eureka.instance:
