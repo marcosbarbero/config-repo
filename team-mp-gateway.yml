@@ -1,0 +1,4 @@
+zuul:
+  ignored-services: gateway,configserver,discovery
+  
+server.port:8081  
