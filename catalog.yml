@@ -5,6 +5,3 @@ catalog:
    - Tênis Nike Airmax
    - Mochila Nike Club
    - Jaqueta Umbro Classics
-
-logging.level:
-  ROOT: 'DEBUG'   
